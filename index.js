@@ -25,4 +25,6 @@ const questions = [
     }
 ];
 
+const { Circle, Triangle, Square } = require('./shapes');
+
 // inquirer.prompt(questions).then(data => {
