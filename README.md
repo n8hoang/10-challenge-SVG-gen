@@ -20,7 +20,7 @@ To install clone this project to your machine and run npm i in the root director
 
 ## Usage
 
-To use run node index.js and you will be prompted for characters for the logo, color for the text, shape, and color for the shape. After all questions are answered an svg logo will be generated.
+To use run node index.js and you will be prompted for characters for the logo, color for the text, shape, and color for the shape. After all questions are answered an svg logo will be generated. [Demo](https://drive.google.com/file/d/1kvJ0BpjKlyPy3Qlca400UQkX3n9tw11O/view)
 
 ## License
 
