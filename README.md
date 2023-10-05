@@ -30,6 +30,10 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 Coded by github.com/n8hoang
 
+## Tests
+
+To test run npm i jest and npm test.
+
 ## Questions
 
 For questions, reach out to me on [GitHub](https://github.com/n8hoang) or email me at natehoang911@gmail.com.
