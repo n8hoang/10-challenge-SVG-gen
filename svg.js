@@ -1,4 +1,3 @@
-// svg.js
 class SVG {
     constructor() {
       this.text = "";
